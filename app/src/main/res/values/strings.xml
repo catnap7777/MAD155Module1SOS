@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">MAD155Module1SOS</string>
+    <string name="txt_header">Personal Emergency Data</string>
+    <string name="txt_caption">Wave by Kam</string>
+    <string name="txt_photo_desc">Karen Mathes</string>
+    <string name="btn_view">View Profile</string>
+    <string name="txt_bio">Karen is married with three awesome kids. She is working on
+        learning mobile application programming, java, javascript, and html/css at present.
+        She is also an artist in her spare time.  She enjoys zumba, hiphop, kickboxing, and
+        yoga classes. She likes metal music and is somewhat addicted to computer games :) </string>
+    <string name="txt_name">Name: Karen Mathes</string>
+    <string name="txt_address">Address: 1234 Sci-fi Lane</string>
+    <string name="txt_city_state_zip">Crystal Lake, IL  60014</string>
+
+    <string name="txt_height">Height: 5\'7\'\'</string>
+    <string name="txt_weight">Weight: I\'m not goint to tell</string>
+    <string name="txt_hair">Hair Color: Light Brown</string>
+    <string name="txt_eyes">Eye Color: Hazel</string>
+
+
+</resources>
