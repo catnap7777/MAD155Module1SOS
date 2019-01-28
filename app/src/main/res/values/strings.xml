@@ -13,6 +13,37 @@
     <string name="txt_weight">Weight: I\'m not goint to tell</string>
     <string name="txt_hair">Hair Color: Light Brown</string>
     <string name="txt_eyes">Eye Color: Hazel</string>
+    <string name="txt_blood_type">Blood Type: A-</string>
+
+    <string name="txt_radio_group">Select Information to View</string>
+    <string name="txt_rb1">Allergies</string>
+    <string name="txt_rb2">Medications</string>
+    <string name="txt_rb3">Medical Conditions</string>
+    <string name="txt_rb4">Emergency Contacts</string>
+
+    <string name="btn_display">Display Info</string>
+
+    <string-array name="allergy_list">
+        <item>Fluoroquinolones</item>
+        <item>Peanuts</item>
+        <item>Ragweed</item>
+        <item>Mold</item>
+    </string-array>
+
+    <string-array name="medical_conditions">
+        <item>AD/HD</item>
+        <item>Asthma</item>
+    </string-array>
+
+    <string-array name="contacts">
+        <item>Tom Mathes - 312-555-1212</item>
+        <item>Renate Mathes - 312-555-1212</item>
+    </string-array>
+
+    <string-array name="medications">
+        <item>Multi-vitamin</item>
+        <item>EpiPen</item>
+    </string-array>
 
 
 </resources>
